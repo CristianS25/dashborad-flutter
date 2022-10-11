@@ -1,4 +1,4 @@
-# responsive_dashboard_v0
+# Responsive Dashboard
 
 A new Flutter project.
 
